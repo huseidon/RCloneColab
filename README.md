@@ -8,7 +8,7 @@
 Using RCloneColab notebook may get you banned from google colab.
 
 ## Preview
-<img width="370" src="https://raw.githubusercontent.com/huseidon/RCloneColab/refs/heads/main/img/01.png">
+<img width="500" src="https://raw.githubusercontent.com/huseidon/RCloneColab/refs/heads/main/img/01.png">
 
 ## Information
 
