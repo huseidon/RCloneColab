@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huseidon/RCloneColab/blob/main/RcloneColab.ipynb)
 
 ## Important
-	Using RCloneColab notebook may get you banned from google colab.
+Using RCloneColab notebook may get you banned from google colab.
 
 
 ## Information
